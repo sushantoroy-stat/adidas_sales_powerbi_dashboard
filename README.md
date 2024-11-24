@@ -7,3 +7,6 @@ Customer Demographics: Insightful visualizations into customer segments and purc
 Top-Performing Products: Identification of the best-selling products and underperforming categories, enabling effective inventory and promotional planning.
 Skills Applied: Leveraging advanced DAX formulas, data modeling, and transformation techniques, I created dynamic visuals and filters to allow users to explore the data intuitively. This project demonstrates my ability to turn raw data into meaningful insights, ensuring business relevance and strategic decision support.
 Here I’m using area chart, Filed map, clustered bar chart, Donut chart, Card, Slicer.
+
+Here the ss of this dashboard--
+![image alt](https://github.com/sushantoroy-stat/adidas_sales_powerbi_dashboard/blob/main/Adidas%20sales%20dashboard%20picture.png?raw=true)
